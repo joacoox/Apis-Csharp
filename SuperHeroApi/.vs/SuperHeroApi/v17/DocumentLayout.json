@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E05F916A-0CED-46B3-A3A9-EC2B85FFB932}|SuperHeroApi\\SuperHeroApi.csproj|c:\\users\\joaqu\\source\\repos\\superheroapi\\superheroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05F916A-0CED-46B3-A3A9-EC2B85FFB932}|SuperHeroApi\\SuperHeroApi.csproj|solutionrelative:superheroapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05F916A-0CED-46B3-A3A9-EC2B85FFB932}|SuperHeroApi\\SuperHeroApi.csproj|c:\\users\\joaqu\\source\\repos\\superheroapi\\superheroapi\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05F916A-0CED-46B3-A3A9-EC2B85FFB932}|SuperHeroApi\\SuperHeroApi.csproj|solutionrelative:superheroapi\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05F916A-0CED-46B3-A3A9-EC2B85FFB932}|SuperHeroApi\\SuperHeroApi.csproj|c:\\users\\joaqu\\source\\repos\\superheroapi\\superheroapi\\options\\databaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05F916A-0CED-46B3-A3A9-EC2B85FFB932}|SuperHeroApi\\SuperHeroApi.csproj|solutionrelative:superheroapi\\options\\databaseoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05F916A-0CED-46B3-A3A9-EC2B85FFB932}|SuperHeroApi\\SuperHeroApi.csproj|c:\\users\\joaqu\\source\\repos\\superheroapi\\superheroapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E05F916A-0CED-46B3-A3A9-EC2B85FFB932}|SuperHeroApi\\SuperHeroApi.csproj|solutionrelative:superheroapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05F916A-0CED-46B3-A3A9-EC2B85FFB932}|SuperHeroApi\\SuperHeroApi.csproj|c:\\users\\joaqu\\source\\repos\\superheroapi\\superheroapi\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05F916A-0CED-46B3-A3A9-EC2B85FFB932}|SuperHeroApi\\SuperHeroApi.csproj|solutionrelative:superheroapi\\controllers\\superherocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E05F916A-0CED-46B3-A3A9-EC2B85FFB932}|SuperHeroApi\\SuperHeroApi.csproj|c:\\users\\joaqu\\source\\repos\\superheroapi\\superheroapi\\models\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E05F916A-0CED-46B3-A3A9-EC2B85FFB932}|SuperHeroApi\\SuperHeroApi.csproj|solutionrelative:superheroapi\\models\\superhero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\SuperHeroApi\\appsettings.json",
+              "RelativeDocumentMoniker": "SuperHeroApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\SuperHeroApi\\appsettings.json",
+              "RelativeToolTip": "SuperHeroApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-05T20:30:04.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataBaseOptions.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\SuperHeroApi\\Options\\DataBaseOptions.cs",
+              "RelativeDocumentMoniker": "SuperHeroApi\\Options\\DataBaseOptions.cs",
+              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\SuperHeroApi\\Options\\DataBaseOptions.cs",
+              "RelativeToolTip": "SuperHeroApi\\Options\\DataBaseOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T20:29:42.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\SuperHeroApi\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "SuperHeroApi\\Repository\\DataContext.cs",
+              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\SuperHeroApi\\Repository\\DataContext.cs",
+              "RelativeToolTip": "SuperHeroApi\\Repository\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:55:34.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\SuperHeroApi\\Program.cs",
+              "RelativeDocumentMoniker": "SuperHeroApi\\Program.cs",
+              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\SuperHeroApi\\Program.cs",
+              "RelativeToolTip": "SuperHeroApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T18:28:26.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuperHeroController.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\SuperHeroApi\\Controllers\\SuperHeroController.cs",
+              "RelativeDocumentMoniker": "SuperHeroApi\\Controllers\\SuperHeroController.cs",
+              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\SuperHeroApi\\Controllers\\SuperHeroController.cs",
+              "RelativeToolTip": "SuperHeroApi\\Controllers\\SuperHeroController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwD8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:30:34.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperHero.cs",
+              "DocumentMoniker": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\SuperHeroApi\\Models\\SuperHero.cs",
+              "RelativeDocumentMoniker": "SuperHeroApi\\Models\\SuperHero.cs",
+              "ToolTip": "C:\\Users\\joaqu\\source\\repos\\SuperHeroApi\\SuperHeroApi\\Models\\SuperHero.cs",
+              "RelativeToolTip": "SuperHeroApi\\Models\\SuperHero.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T17:28:33.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
